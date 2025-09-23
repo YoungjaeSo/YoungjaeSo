@@ -20,10 +20,9 @@
   | [✈️ **MoneyJ**](https://github.com/KB-moneyJ) | 여행을 위한 SNPL 금융 비서 |
 </div>
 
-<br>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📌 Activities</h2>
+<br>
   
   | Date | Activity |
   |------|:----------:|
