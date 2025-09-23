@@ -1,6 +1,6 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=96bef3&height=180&text=Welcome%20to%20Youngjae's%20world&animation=fadeIn&fontColor=000000&fontSize=50" />
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117,1e3c72,2a5298&height=180&text=Welcome%20to%20Youngjae's%20world&animation=twinkling&fontColor=ffffff&fontSize=40" />
+</div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
 </div>
