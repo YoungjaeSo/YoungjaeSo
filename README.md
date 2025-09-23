@@ -19,6 +19,19 @@
 | [✈️ **MoneyJ**](https://github.com/KB-moneyJ) | 여행을 위한 SNPL 금융 비서 |
 
 </div>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Activities </h2>
+</div>
+
+<div align="center">
+
+| Date | Activity | Description |
+|------|----------|-------------|
+| 2024.6.21 ~ 2024.11.29 | 제 9회 대학생이 간다 |
+| 2025.03.04 ~ 2025.08.21 | KB IT's Your Life 6기 |
+
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:dev.yj1999@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.yj1999@gmail.com"> </a>
