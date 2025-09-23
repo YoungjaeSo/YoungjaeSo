@@ -4,11 +4,12 @@
 
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👋 About Me</h2>
-  <p>
-    어제보다 더 나은 오늘의 개발자가 되기!
-  </p>
+  <h2 style="color: #282d33;">👋 About Me</h2>
 </div>
+
+<ul>
+  <li>어제보다 더 나은 오늘의 개발자가 되기!</li>
+</ul>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
   
