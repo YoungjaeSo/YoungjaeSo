@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=1e3c72&height=180&text=Welcome%20to%20Youngjae's%20world&animation=twinkling&fontColor=ffffff&fontSize=42" />
 </div>
 
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👋 About Me</h2>
+  <p>
+    꾸준히 성장해 나가는 개발자가 되고싶습니다.<br>
+  </p>
+</div>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
   
