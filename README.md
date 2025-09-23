@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=1e3c72,2a5298,4f80d8&height=180&text=Welcome%20to%20Youngjae's%20world&animation=twinkling&fontColor=ffffff&fontSize=42" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&section=gradient&color=1e3c72,2a5298,4f80d8&height=180&text=Welcome%20to%20Youngjae's%20world&animation=twinkling&fontColor=ffffff&fontSize=42" />
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
