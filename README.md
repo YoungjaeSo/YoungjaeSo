@@ -30,37 +30,37 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-FF2D20?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=social&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=social&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=social&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-FF2D20?style=social&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=social&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=social&logo=vue.js&logoColor=white"/>
 </p>
 
 ### 📡 Communication & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=social&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=social&logo=figma&logoColor=white"/>
 </p>
 
 ### 📖 Studying
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=social&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=social&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=social&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=social&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=social&logo=springsecurity&logoColor=white"/>
 </p>
 <br>
 
