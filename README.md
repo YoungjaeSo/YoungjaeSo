@@ -28,7 +28,12 @@
 </div>
 
  <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ BackEnd Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          </div>
+    </div>
+     <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ FrontEnd Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           </div>
     </div>
