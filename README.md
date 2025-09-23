@@ -5,11 +5,10 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👋 About Me</h2>
+</div>
   <p>
     꾸준히 성장해 나가는 개발자가 되고싶습니다.<br>
   </p>
-</div>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
   
