@@ -39,12 +39,13 @@
     </div>
   <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats </h2>
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&theme=radical" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&theme=radical" width="400"/></td>
-  </tr>
-</table>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&theme=radical" width="400"/>
+  &nbsp;&nbsp;&nbsp; <!-- 여기가 공백 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&theme=radical" width="400"/>
+
+</div>
 </div>
     
     
