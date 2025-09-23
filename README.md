@@ -49,6 +49,18 @@
 </p>
 
 <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📖 Studying</h2>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
