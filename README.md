@@ -26,8 +26,8 @@
 
 <div align="center">
 
-| Date | Activity | Description |
-|------|----------|-------------|
+| Date | Activity | 
+|------|----------|
 | 2024.6.21 ~ 2024.11.29 | 제 9회 대학생이 간다 |
 | 2025.03.04 ~ 2025.08.21 | KB IT's Your Life 6기 |
 
