@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <h3>👋 About Me</h3>
 </div>
 
@@ -37,7 +37,7 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
 </div>
-
+<br>
 ### ⚙️ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -72,6 +72,8 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📖 Studying</h2>
 </div>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
