@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=1e3c72&height=180&text=Welcome%20to%20Youngjae's%20world&animation=twinkling&fontColor=ffffff&fontSize=42" />
 </div>
 
+<br>
 
 <div align="center">
-  <strong style="font-size: 24px;">👋 About Me</strong>
+  <h3>👋 About Me</h3>
 </div>
 
 <ul>
