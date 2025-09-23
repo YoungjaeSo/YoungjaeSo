@@ -4,12 +4,13 @@
 
 
 <div align="center">
-  <span style="font-size: 40px; font-weight: bold; color: #282d33;">👋 About Me</span>
+  <strong style="font-size: 24px;">👋 About Me</strong>
 </div>
 
 <ul>
   <li>어제보다 더 나은 오늘의 개발자가 되기!</li>
 </ul>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
   
