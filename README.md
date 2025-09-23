@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=1e3c72&height=180&text=Welcome%20to%20Youngjae's%20world&animation=twinkling&fontColor=ffffff&fontSize=42" />
 </div>
 
-<br>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
   
@@ -82,7 +80,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
-</div>
-<div>
-  <img src="https://streak-stats.demolab.com?user=YoungjaeSo&theme=tokyonight&hide_border=true"/>
 </div>
