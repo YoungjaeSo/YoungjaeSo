@@ -39,9 +39,15 @@
     </div>
   <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats </h2>
-| Languages | Stats |
-|-----------|-------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&theme=radical" width="400"/> | <img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&theme=radical" width="400"/> 
+<div align="center">
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&theme=radical" width="400" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&theme=radical" width="400" />
+
+</div>
 </div>
     
     
