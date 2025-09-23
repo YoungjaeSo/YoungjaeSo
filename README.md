@@ -9,7 +9,8 @@
     </div>
     <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>
-        - [💸 **FinMate**](https://github.com/YoungjaeSo/FinMate_FE) — 금융 포트폴리오 추천 웹 서비스
+        - [💸 FinMate](https://github.com/KB-technologia) — 금융 포트폴리오 추천 웹 서비스
+        
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2> <br> 
