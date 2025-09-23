@@ -9,7 +9,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [💸 **FinMate**](https://github.com/KB-technologia) | 금융 포트폴리오 추천 웹 서비스 |
+| [💸 **FinMate**](https://github.com/KB-technologia) | 게이피케이션 기반 맞춤형 금융상품 추천 웹 서비스 |
 | [✈️ **MoneyJ**](https://github.com/KB-moneyJ) | 여행을 위한 SNPL 금융 비서 |
 
 </div>
