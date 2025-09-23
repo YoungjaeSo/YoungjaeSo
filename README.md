@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <span style="font-size: 28px; font-weight: bold; color: #282d33;">👋 About Me</span>
+  <span style="font-size: 40px; font-weight: bold; color: #282d33;">👋 About Me</span>
 </div>
 
 <ul>
