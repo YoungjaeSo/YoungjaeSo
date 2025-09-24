@@ -99,4 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungjaeSo&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
+
+   [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YoungjaeSo/YoungjaeSo&count_bg=%239ECAD6&title_bg=%23748DAE&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
