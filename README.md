@@ -100,5 +100,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=YoungjaeSo&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
 
- [![Profile Views](https://komarev.com/ghpvc/?username=YoungjaeSo&color=blue)](https://komarev.com/ghpvc/?username=YoungjaeSo)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YoungjaeSo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+</p>
 </div>
