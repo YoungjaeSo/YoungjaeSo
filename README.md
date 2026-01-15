@@ -18,6 +18,7 @@
   |---------|:-------------:|
   | [💸 **FinMate**](https://github.com/KB-technologia) | 게이피케이션 기반 맞춤형 금융상품 추천 웹 서비스 |
   | [✈️ **MoneyJ**](https://github.com/KB-moneyJ) | 여행을 위한 SNPL 금융 비서 |
+  | [✈️ **CozyStay**](https://github.com/Official-CozyStay) | AirBnB 클론 프로젝트 |
 </div>
 
 <div align="center">
