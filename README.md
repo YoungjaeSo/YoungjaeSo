@@ -18,7 +18,8 @@
   |---------|:-------------:|
   | [💸 **FinMate**](https://github.com/KB-technologia) | 게이피케이션 기반 맞춤형 금융상품 추천 웹 서비스 |
   | [✈️ **MoneyJ**](https://github.com/KB-moneyJ) | 여행을 위한 SNPL 금융 비서 |
-  | [✈️ **CozyStay**](https://github.com/Official-CozyStay) | AirBnB 클론 프로젝트 |
+  | [🏠 **CozyStay**](https://github.com/Official-CozyStay) | AirBnB 클론 프로젝트 |
+  | [📸 **PicNGo**](https://github.com/Pic-N-Go) | 스마트 출사 플래너 애플리케이션 |
 </div>
 
 <div align="center">
@@ -27,6 +28,7 @@
   
   | Date | Activity |
   |------|:----------:|
+  | 2025.05.18 ~ ing | 한국관광공사 관공데이터 활용 공모전 |
   | 2025.09.10 ~ 2025.09.12 | KB IT's Your Life 해커톤 |
   | 2025.03.04 ~ 2025.08.21 | KB IT's Your Life 6기 |
   | 2024.06.21 ~ 2024.11.29 | 제 9회 대학생이 간다 |
